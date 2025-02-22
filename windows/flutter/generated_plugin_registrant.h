@@ -1,4 +1,4 @@
-//
+git remote add origin https://github.com/kunalpro379/Blog_App_Flutter_bloc_CleanArchetecture_Supabase.git//
 //  Generated file. Do not edit.
 //
 
